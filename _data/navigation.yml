@@ -1,11 +1,13 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "About The Team"
     url: /about/
-  - title: "Home"
-    url: /home/
+  
+  # useful but not needed for now
+  #- title: "Categories"
+  #  url: /categories/
+  #- title: "Tags"
+  #  url: /tags/
+  #- title: "Home"
+  #  url: /home/
