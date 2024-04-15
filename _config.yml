@@ -13,11 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Test Website for Smart Ramen 🍜
+title: Smart Ramen 🧠🍜
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Website for First Lego League, Smart Ramen Team at Bayview Glen
-twitter_username: username
+  Website for First Lego League, Smart Ramen Team
 github_username: username
 minimal_mistakes_skin: dark
 search: true
@@ -56,34 +55,28 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Smart Ramen"
+  avatar : "/assets/images/smart_ramen_logo.jpg"
+  bio    : "Amazing team of kids dedicated to innovation project and lego."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/smart.ramen21544"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/smart.ramen21544"
 
 defaults:
   # _posts
