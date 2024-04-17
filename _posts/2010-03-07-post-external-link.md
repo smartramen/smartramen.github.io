@@ -1,5 +1,5 @@
 ---
-title: "Post: Link"
+title: "Post: External Link"
 categories:
   - Blog
 tags:
