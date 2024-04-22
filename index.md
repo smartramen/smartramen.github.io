@@ -10,6 +10,20 @@ excerpt: >
   Overflowing creativity<br />
   Unbreakable friendship<br />
 feature_row:
+  - image_path: /assets/images/smartkey_evolution.gif
+    alt: ""
+    title: "Smart Key"
+    excerpt: "Evolution and Beyond"
+    url: "/docs/configuration/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/noodle_robot.jpg
+    alt: ""
+    title: "Lego Robot"
+    excerpt: "We named it \"Noodle\"❗"
+    url: "/docs/configuration/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
   - image_path: /assets/images/western_edge_open.jpg
     alt: ""
     title: "Western Edge Open"
