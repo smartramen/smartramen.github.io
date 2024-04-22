@@ -17,7 +17,7 @@ feature_row:
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/noodle_robot.jpg
+  - image_path: /assets/images/noodle_robot.png
     alt: ""
     title: "Lego Robot"
     excerpt: "We named it \"Noodle\"❗"
