@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 feature_row:
-  - image_path: /assets/images/bio-photo.jpg
+  - image_path: /assets/images/Hermione.jpeg
     alt: ""
     title: "Hermione Luk"
     excerpt: "I love to work as a team and discover new things. I learned working as a team is more efficient than working independently."
@@ -14,7 +14,7 @@ feature_row:
     alt: ""
     title: "Aaron Guo"
     excerpt: "I like bonding with people. I learned to take more time to identify and explore the problem before jumping into solutions. Moving forward, I need to be more open to others ideas."
-  - image_path: /assets/images/Cormac.png
+  - image_path: /assets/images/Cormac.jpeg
     alt: ""
     title: "Cormac Colman"
     excerpt: "I like coding and the innovation project. I learned how to code gyro and 3D Print."
