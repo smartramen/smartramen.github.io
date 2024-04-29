@@ -10,3 +10,15 @@ tags:
 ---
 
 Runnymede FIRST LEGO Leagure Chanllenge Qualifier
+
+![runnymede-core-value-board](/assets/images/runnymede-core-value-board.jpeg)
+
+![runnymede-robot-board](/assets/images/runnymede-robot-board.jpeg)
+
+![runnymede-smart-key-board](/assets/images/runnymede-smart-key-board.jpeg)
+
+![runnymede-team-pit](/assets/images/runnymede-team-pit.jpeg)
+
+![runnymede-team-pit](/assets/images/runnymede-robot-competition.jpeg)
+
+![runnymede-team-pit](/assets/images/runnymede-robot-competition2.jpeg)

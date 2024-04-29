@@ -10,3 +10,7 @@ tags:
 ---
 
 Ontario West Provincial Championship
+
+![western-championship-robot-competition](/assets/images/western-championship-robot-competition.jpeg)
+
+![western-championship-award](/assets/images/western-championship-award.jpeg)
