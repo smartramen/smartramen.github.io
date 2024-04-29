@@ -42,7 +42,7 @@ feature_row:
     alt: ""
     title: "Runnymede FIRST LEGO Leagure Chanllenge Qualifier "
     excerpt: "December 5, 2023 | York, ON, Canada"
-    url: "/2023/01/20/runnymede-qualifier.html"
+    url: "/blog/runnymede-qualifier/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
