@@ -11,6 +11,10 @@ tags:
 
 ![Noodle The Robot](/assets/images/noodle-robot.JPG)
 
+![Noodle The Robot Side Angle 1](/assets/images/noodle-robot-side-angle-1.JPG)
+
+![Noodle The Robot Side Angle 2](/assets/images/noodle-robot-side-angle-2.JPG)
+
 ![Attachment 1](/assets/images/noodle-attachment-1.JPG)
 
 ![Attachment 2](/assets/images/noodle-attachment-2.JPG)
