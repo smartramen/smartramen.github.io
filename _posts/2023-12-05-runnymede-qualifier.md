@@ -22,3 +22,14 @@ Runnymede FIRST LEGO Leagure Chanllenge Qualifier
 ![runnymede-team-pit](/assets/images/runnymede-robot-competition.jpeg)
 
 ![runnymede-team-pit](/assets/images/runnymede-robot-competition2.jpeg)
+
+![Adelaide Plays Piano](/assets/images/adelaide-plays-piano.JPG)
+
+![challenger daily schedule](/assets/images/challenger-daily-schedule.JPG)
+
+![challenger ranking](/assets/images/challenger-ranking.JPG)
+
+![practice!](/assets/images/practice-before-challenge-match.JPG)
+
+
+
