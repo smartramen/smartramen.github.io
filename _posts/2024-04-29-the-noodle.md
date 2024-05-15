@@ -9,3 +9,10 @@ tags:
   - update
 ---
 
+![Noodle The Robot](/assets/images/noodle-robot.JPG)
+
+![Attachment 1](/assets/images/noodle-attachment-1.JPG)
+
+![Attachment 2](/assets/images/noodle-attachment-2.JPG)
+
+![Attachment 3](/assets/images/noodle-attachment-3.JPG)
