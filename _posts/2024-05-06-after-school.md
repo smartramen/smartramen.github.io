@@ -1,5 +1,5 @@
 ---
-title: "5/6"
+title: "5/6 After School"
 date: 2024-05-06T15:34:30-04:00
 categories:
   - blog

@@ -1,5 +1,5 @@
 ---
-title: "1/21 Post Western Championship Competition"
+title: "Post Western Championship Competition"
 date: 2024-01-21T15:34:30-04:00
 categories:
   - blog
