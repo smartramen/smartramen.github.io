@@ -17,7 +17,7 @@ feature_row:
     url: "/blog/smart-key-evolution/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/noodle-roboto-featured.png
+  - image_path: /assets/images/noodle-robot-featured.png
     alt: ""
     title: "Lego Robot"
     excerpt: "We named it \"Noodle\"❗"
