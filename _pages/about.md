@@ -2,6 +2,10 @@
 permalink: /about/
 title: "About"
 feature_row:
+  - image_path: /assets/images/MrMcCord.png
+    alt: ""
+    title: "Mr. Ben McCord"
+    excerpt: ""
   - image_path: /assets/images/Hermione.jpeg
     alt: ""
     title: "Hermione Luk"
