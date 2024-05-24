@@ -9,6 +9,10 @@ tags:
   - FLL
   - update
 ---
+
+Version 0: Brain storming
+![v0-brain-storm](/assets/images/smart-key-initial-design.png)
+
 Version 1: Original: "Rainbow Keys", based on Emily's idea. Colour only, in ROYGBIV order.​
 ![v1-original](/assets/images/v1-original.png)
 
